@@ -1,5 +1,5 @@
 # Polimorfisme
 
-# Inés Masllorenç
-# Carla Victorio
-# Victòria Roman
+Inés Masllorenç
+Carla Victorio
+ictòria Roman
