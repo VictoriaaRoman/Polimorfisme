@@ -1,2 +1,5 @@
-public class Figura {
+public abstract class Figura {
+   // public double area(){
+
+   // }
 }
